@@ -1,0 +1,10 @@
+/workspaces/github-actions-task2/src/main/java/com/softserve/model/Contact.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/Application.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/dto/ContactDto.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/service/impl/ContactServiceImpl.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/controller/MainController.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/controller/ContactController.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/service/ContactService.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/dto/ResultDto.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/config/ApplicationConfig.java
+/workspaces/github-actions-task2/src/main/java/com/softserve/repository/ContactRepository.java
